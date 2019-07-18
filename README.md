@@ -1,6 +1,6 @@
 # POC for meltdown/spectre
 
-<b>I can't take all or even most of the credit. gkaindl, romansavrulin, and gregvish gave me all the pieces, I just put them together.</b>
+## I can't take all or even most of the credit. gkaindl, romansavrulin, and gregvish gave me all the pieces, I just put them together.
 
 ## This is an intentionally outdated repository. My latest code has not been published due to concern for the embargo on the vulnerabilities. 
 
